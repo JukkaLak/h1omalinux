@@ -1,0 +1,1 @@
+# Virtuaalikoneen asennus
