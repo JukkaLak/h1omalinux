@@ -1,4 +1,4 @@
-# Artikkelitiivistelmä FSF Free Software Definition
+# h1 Artikkelitiivistelmä FSF Free Software Definition
 
 - Vapaa ohjelmisto tarkoittaa lyhyesti sanottuna sitä, että käyttäjä voi vapaasti ajaa, kopioida, jakaa, opetella sekä muokata ja parannella ohjelmistoa.
 - Käyttäjät voivat vapaasti hyödyntää ohjelmistoa palvelemaan omia tarpeitaan
